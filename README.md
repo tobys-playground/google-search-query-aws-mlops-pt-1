@@ -1,8 +1,8 @@
-# GPT-Neo + AWS MLOps Part 1 (Step Functions)
+# BYOC GPT-Neo + AWS MLOps Part 1 (Step Functions)
 
 ## Architecture
 
-This part of the MLOps workflow focuses on a CI/CD CodePipeline (shaded in orange) for creating/updating an AWS Step Functions State Machine when there is a change to the code, which was written in the Data Science SDK for Python
+This part of the MLOps workflow focuses on a CI/CD CodePipeline (shaded in orange) for creating/updating an AWS Step Functions State Machine when there is a change to the code, which was written in the Data Science SDK for Python.
 
 ## Steps
 
