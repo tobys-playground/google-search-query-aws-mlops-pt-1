@@ -12,4 +12,4 @@ This part of the MLOps workflow focuses on the **first CodePipeline (shaded in o
 2) **CodeBuild** will create/update the **State Machine** by running **step_function.py**
 3) The State Machine can then be used by the second CodePipeline (Link to Repo: https://github.com/tobys-playground/google-search-results-aws-mlops-pt-2) to train the Bring-Your-Own-Container GPT-Neo model and deploy it as an endpoint in SageMaker. If an execution of the State Machine is successful, it should look as below:
 
-![image](https://user-images.githubusercontent.com/81354022/156122948-30ffabe9-b92a-4c65-8755-e13492e02a1c.png)
+![image](https://user-images.githubusercontent.com/81354022/156136949-de3284a3-1d58-42f6-a6ca-cb2cf7dc832c.png)
