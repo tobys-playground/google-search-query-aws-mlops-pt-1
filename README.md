@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/81354022/156122684-cfe07fdb-a407-4497-aa1a-88edbeac288e.png)
 
-This part of the MLOps workflow focuses on the **first CodePipeline (shaded in orange)** for creating/updating an AWS Step Functions State Machine when there is a change to the code, which was written in the Data Science SDK for Python.
+This part of the MLOps (Maturity level 3) workflow focuses on the **first CodePipeline (shaded in orange)** for creating/updating an AWS Step Functions State Machine when there is a change to the code, which was written in the Data Science SDK for Python.
 
 ## Steps
 
